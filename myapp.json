@@ -1,13 +1,16 @@
 {
 	"collection": [
 		{
-			"title": "編集できるよー、右上のeditをクリック"
+			"title": "編集できるよー、右上のeditをクリック",
+			"check": true
 		},
 		{
-			"title": "ローズ"
+			"title": "ローズ",
+			"check": true
 		},
 		{
-			"title": "羽"
+			"title": "羽",
+			"check": false
 		}
 	]
 }
